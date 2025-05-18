@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WhatsApp Bot</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- CSS dosyasını bağla -->
+  </head>
+  <body>
+    <h1>WhatsApp Botu</h1>
+
+    <label for="phone">Telefon Numarası</label>
+    <input
+      type="text"
+      id="phone"
+      placeholder="Telefon numarasını girin"
+    /><br /><br />
+
+    <label for="date">Tarih Seçin: </label>
+    <input type="date" id="date" /><br /><br />
+
+    <label for="time">Saat Seçin: </label>
+    <input type="time" id="time" /><br /><br />
+
+    <label for="message">Mesaj: </label>
+    <textarea
+      id="message"
+      placeholder="Göndermek istediğiniz mesajı girin"
+    ></textarea
+    ><br /><br />
+
+    <button id="sendBtn">Mesaj Gönder</button>
+
+    <script src="renderer.js"></script>
+  </body>
+</html>

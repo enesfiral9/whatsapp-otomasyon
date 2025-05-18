@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^22.0.0",
+    "moment-timezone": "^0.5.48",
+    "node-schedule": "^2.1.1",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "rimraf": "^5.0.10",
+    "whatsapp-web.js": "^1.27.0"
+  }
+}

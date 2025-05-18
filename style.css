@@ -1,0 +1,57 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: #25d366; /* WhatsApp yeşili */
+  margin-bottom: 30px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #555;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="time"],
+textarea {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box; /* Padding ve border genişliğe dahil olur */
+}
+
+textarea {
+  resize: vertical; /* Sadece dikeyde yeniden boyutlandırma */
+  min-height: 80px;
+}
+
+button {
+  background-color: #25d366; /* WhatsApp yeşili */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #128c7e; /* Daha koyu WhatsApp yeşili */
+}
+
+br {
+  display: none; /* Gereksiz satır boşluklarını kaldır */
+}
