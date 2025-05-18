@@ -9,6 +9,8 @@ Bu proje, Node.js & Electron.js kullanılarak geliştirilmiş bir **WhatsApp oto
 - Basit komut sistemi
 - WhatsApp Web tabanlı çalışma
 - QR Kod ile giriş yapılmaktadır
+- Çoklu mesaj için numara aralarına , koyun
+- Telefon numarası 537 başında 0 ile başlamamalı
 
 ## Kurulum
 
