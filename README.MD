@@ -1,4 +1,5 @@
 # WhatsApp Otomasyon Botu
+![Alternatif Metin](https://github.com/enesfiral9/whatsapp-otomasyon/blob/main/wpotomasyon.PNG)
 
 Bu proje, Node.js & Electron.js kullanılarak geliştirilmiş bir **WhatsApp otomasyon botudur**. Resmi WhatsApp API'si kullanılmadan, hobi amaçlı geliştirilmiştir.
 
@@ -25,7 +26,7 @@ Bu proje, Node.js & Electron.js kullanılarak geliştirilmiş bir **WhatsApp oto
 
    !!!Uyarılar
    Resmi WhatsApp API kullanılmamaktadır; bu nedenle WhatsApp hesaplarının engellenme riski vardır.
-![Alternatif Metin](https://github.com/enesfiral9/whatsapp-otomasyon/blob/main/wpotomasyon.PNG)
+
    
 
 Proje sadece eğitim ve hobi amaçlıdır.
