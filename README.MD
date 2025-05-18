@@ -25,7 +25,7 @@ Bu proje, Node.js & Electron.js kullanılarak geliştirilmiş bir **WhatsApp oto
 
    !!!Uyarılar
    Resmi WhatsApp API kullanılmamaktadır; bu nedenle WhatsApp hesaplarının engellenme riski vardır.
-   ```
+   
 
 Proje sadece eğitim ve hobi amaçlıdır.
 
